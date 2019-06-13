@@ -5,7 +5,7 @@
 .xterm-overlay {
     font-family: "DejaVu Sans Mono", "Everson Mono", FreeMono, Menlo, Terminal, monospace, "Apple Symbols";
     border-radius: 15px;
-    font-size: small;
+    font-size: 9px;
     color: black;
     background: white;
     opacity: 0.75;
