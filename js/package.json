@@ -7,7 +7,7 @@
         "webpack": "^2.5.1"
     },
     "dependencies": {
-        "libapps": "github:blissnd/libapps#release-hterm-1.70",
+        "libapps": "github:blissnd/libapps",
         "xterm": "^2.7.0"
     }
 }
