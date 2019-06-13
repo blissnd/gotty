@@ -9,9 +9,9 @@ import (
 
 	"github.com/codegangsta/cli"
 	"github.com/fatih/structs"
-	"github.com/yudai/hcl"
+	"github.com/blissnd/hcl"
 
-	"github.com/yudai/gotty/pkg/homedir"
+	"github.com/blissnd/gotty/pkg/homedir"
 )
 
 func GenerateFlags(options ...interface{}) (flags []cli.Flag, mappings map[string]string, err error) {
